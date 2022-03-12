@@ -1,6 +1,6 @@
 .Card {
-  height: 400px;
-  width: 400px;
+  height: 600px;
+  width: 500px;
   background-color: white;
   text-align: center;
   padding: 20px;
@@ -8,20 +8,20 @@
 }
 
 .Card:hover {
-  height: 424px;
-  width: 424px;
+  height: 626px;
+  width: 526px;
   transition: 0.3s;
 }
 
 
 .img {
-  height: 300px;
+  height: 500px;
   width: 400px;
-  object-fit: contain;
+  object-fit: fill;
 }
 
 .img:hover {
-  width: 424px;
+  width: 426px;
   transition: 0.3s;
 }
 

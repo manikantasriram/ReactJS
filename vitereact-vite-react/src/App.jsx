@@ -18,7 +18,7 @@ function App() {
           Content = "All about Disha Patani"
           />
           <Card
-          Img="https://i.pinimg.com/originals/02/6c/da/026cdaf717ac7af4482aec84436709ab.jpg"
+          Img="https://st1.photogallery.ind.sh/wp-content/uploads/indiacom/rashmika-mandanna-emotes-too-tired-for-monday-pose-in-the-cutest-way-ever-202111-1636644138.jpg"
           Title = "Rashmika Mandanna"
           Content = "All about Rashmika Mandanna"
           />
@@ -33,7 +33,7 @@ function App() {
           Content = "All about Kalyani Priyadarshan"
           />
           <Card
-          Img="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8GUjhlyLxux3-CxJnAvWDiifc6sc2llx46g&usqp=CAU"
+          Img="https://moviegalleri.net/wp-content/gallery/kajal-agarwal-at-sarocharu-interview/kajal_agarwal_new_cute_photos_sarocharu_movie_interview_1966efa.jpg"
           Title = "Kajal Agarwal"
           Content = "All about Kajal Agarwal"
           />
