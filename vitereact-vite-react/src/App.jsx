@@ -5,37 +5,44 @@ import  './Components/Card.css'
 
 
 function App() {
+
   return (
     <div className="App">
           <Card 
-          Img="https://1.bp.blogspot.com/-GJHMOfZjXTw/YMImrpRqboI/AAAAAAAAEko/AFCYAg3fjJ0YAcB9rWnD6XtpKc0kkpQDgCLcBGAsYHQ/s1600/Raashikhanna%2BHDgallery%2B%25281%2529.jpg"
-          Title = "Raashi Khanna"
-          Content = "All about Raashi Khanna"
+          Img="https://www.pinkvilla.com/files/styles/amp_metadata_content_image_min_696px_wide/public/suriya_latest_poster_mian_0.jpg?itok=EdriMQxO"
+          Title = "ETHARKKUM THUNINDHAVAN"
+          Content = "All about Etharkkum Thunindhavan"
+          Link = "https://www.imdb.com/title/tt10340562/"
           />
           <Card
-          Img="https://1.bp.blogspot.com/-APwyp32rL4o/Xbr-7GEh00I/AAAAAAAABAE/DatgexzMaFA0B7x55XnOzt6l9xq6p2esQCNcBGAsYHQ/s1600/disha-patani-hot-photos.jpg"
-          Title = "Disha Patani"
-          Content = "All about Disha Patani"
+          Img="https://m.media-amazon.com/images/M/MV5BY2Y5ZWMwZDgtZDQxYy00Mjk0LThhY2YtMmU1MTRmMjVhMjRiXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_FMjpg_UX1000_.jpg"
+          Title = "JAI BHIM"
+          Content = "All about Jai Bhim"
+          Link = "https://www.imdb.com/title/tt15097216/?ref_=fn_al_tt_1"
           />
           <Card
-          Img="https://st1.photogallery.ind.sh/wp-content/uploads/indiacom/rashmika-mandanna-emotes-too-tired-for-monday-pose-in-the-cutest-way-ever-202111-1636644138.jpg"
-          Title = "Rashmika Mandanna"
-          Content = "All about Rashmika Mandanna"
+          Img="https://i.pinimg.com/originals/41/99/00/4199001a1cced80374c89ccf1078d345.jpg"
+          Title = "SOORARAI POTTRU"
+          Content = "All about Soorarai Pottru"
+          Link = "https://www.imdb.com/title/tt10189514/?ref_=nv_sr_srsg_0  "
           />
           <Card
-          Img="https://www.mwallpapers.com/download-image/8685/502x670"
-          Title = "Tammana Bhatia"
-          Content = "All about Tammana Bhatia"
+          Img="https://wallpapercave.com/wp/wp4669929.jpg"
+          Title = "KAAPPAAN"
+          Content = "All about Kaappaan"
+          Link = "https://www.imdb.com/title/tt8411144/?ref_=fn_al_tt_3"
           />
           <Card
-          Img="https://i0.wp.com/filmitamasha.com/wp-content/uploads/2020/05/Kalyani-Priyadarshan-30.jpg?fit=1080%2C1338&ssl=1"
-          Title = "Kalyani Priyadarshan"
-          Content = "All about Kalyani Priyadarshan"
+          Img="https://moviegalleri.net/wp-content/gallery/ngk-movie-release-posters/suriya-ngk-movie-release-posters-2b5ac77.jpg"
+          Title = "NGK  "
+          Content = "All about NGK"
+          Link = "https://www.imdb.com/title/tt8094252/?ref_=fn_al_tt_1"
           />
           <Card
-          Img="https://moviegalleri.net/wp-content/gallery/kajal-agarwal-at-sarocharu-interview/kajal_agarwal_new_cute_photos_sarocharu_movie_interview_1966efa.jpg"
-          Title = "Kajal Agarwal"
-          Content = "All about Kajal Agarwal"
+          Img="https://media-cache.cinematerial.com/p/500x/n9fgc9uv/thaanaa-serndha-koottam-indian-movie-poster.jpg?v=1514888808"
+          Title = "THAANAA SERNDHA KOOTTAM"
+          Content = "All about Thaanaa Serndha Koottam"
+          Link = "https://www.imdb.com/title/tt6237966/?ref_=nv_sr_srsg_0"
           />
     </div>
   )

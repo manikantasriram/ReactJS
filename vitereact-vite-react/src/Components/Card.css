@@ -1,40 +1,48 @@
 .Card {
-  height: 600px;
-  width: 500px;
+  height: 400px;
+  width: 400px;
   background-color: white;
   text-align: center;
-  padding: 20px;
   margin: 20px;
+  border-radius: 10px;
 }
 
 .Card:hover {
-  height: 626px;
-  width: 526px;
-  transition: 0.3s;
+  height: 424px;
+  width: 400px;
+  transition: 200ms;
+  box-shadow: 0 4px 8px 0 rgba(255, 255, 255, 0.20), 0 6px 20px 0 rgba(255, 255, 255, 0.20);
 }
 
 
 .img {
-  height: 500px;
+  height: 300px;
   width: 400px;
   object-fit: fill;
-}
-
-.img:hover {
-  width: 426px;
-  transition: 0.3s;
+  border-radius: 9px 9px 0px 0px;
 }
 
 .Title {
   background-color: white;
-  color: rgb(0, 0, 0);
+  color: rgb(255, 0, 0);
   font-family: 'Poppins', sans-serif;
-  font-size: 25px;
+  font-size: 20px;
 }
 
 .Content {
   background-color: white;
   color: rgb(0, 0, 0);
   font-family: 'Open Sans';
-  font-size: 10px;
+  font-size: 14px;
+}
+
+.Button {
+  height: 25px;
+  width: 100px;
+  background-color: white;
+  font-family: 'montserrat', sans-serif;
+  color: rgb(0, 132, 255);
+  text-align: center;
+  margin-top: 8px;
+  border-radius: 50px;
 }
