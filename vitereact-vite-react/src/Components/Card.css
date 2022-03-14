@@ -32,7 +32,8 @@
 .Content {
   background-color: white;
   color: rgb(0, 0, 0);
-  font-family: 'Poppins';
+  font-family: 'montserrat';
+  font-weight: 400;
   letter-spacing: 2px;
   font-size: 12px;
 }
@@ -41,7 +42,7 @@
   height: 28px;
   width: 140px;
   background-color:white;
-  font-family: 'montserrat';
+  font-family: 'Poppins';
   font-size: 14px;
   color: rgb(0, 132, 255);
   text-align: center;
