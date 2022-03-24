@@ -1,14 +1,14 @@
 .Card {
-  height: 600px;
+  height: 400px;
   width: 400px;
   background-color: white;
   text-align: center;
-  margin: 20px;
+  margin: 30px;
   border-radius: 10px;
 }
 
 .Card:hover {
-  height: 614px;
+  height: 424px;
   width: 400px;
   transition: 200ms;
   box-shadow: 0 4px 8px 0 rgba(255, 255, 255, 0.20), 0 6px 20px 0 rgba(255, 255, 255, 0.20);
@@ -16,10 +16,16 @@
 
 
 .img {
-  height: 500px;
+  height: 310px;
   width: 400px;
-  object-fit: cover;
+  object-fit:cover;
   border-radius: 9px 9px 0px 0px;
+}
+
+.img:hover {
+  height: 324px;
+  width: 400px;
+  transition: 200ms;
 }
 
 .Title {
